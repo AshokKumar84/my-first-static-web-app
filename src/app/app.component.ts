@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   template: `<div>Hello {{value}}</div>`,
 })
 export class AppComponent {
-  value = 'World - Ashok Kumar Kanniappan';
+  value = 'World - Ashok Kumar';
 }
